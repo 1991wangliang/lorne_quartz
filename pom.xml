@@ -7,10 +7,10 @@
 
 
     <!--<distributionManagement>-->
-    <!--<repository>-->
-    <!--<id>lorne-repository</id>-->
-    <!--<url>file:/Users/lorne/developer/idea/lorne/repository/</url>-->
-    <!--</repository>-->
+        <!--<repository>-->
+            <!--<id>lorne-repository</id>-->
+            <!--<url>file:/Users/lorne/developer/idea/lorne/repository/</url>-->
+        <!--</repository>-->
     <!--</distributionManagement>-->
 
 
